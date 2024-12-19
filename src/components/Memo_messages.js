@@ -7,7 +7,7 @@ const Messages = () => {
     "NNow this page is importing message component using the react memo",
     "Which means this dialogue box wont re-render again with the parent element",
     "ENNTER THE FOLLOWING CODE",
-    "AA3BO4XLTUKZ894BK",
+    "A3BK4XLTUKK894BK",
    
   ];
 
