@@ -13,7 +13,7 @@ const LoginPage = () => {
     e.preventDefault(); // Prevent form submission (if used in a form)
     
     // Check if username is defined and compare it
-    if (username === "A3BO4XLTUKZ894BK") {
+    if (username === "A3BK4XLTUKK894BK") {
       alert("YAYYYYY YOU FINALLY LEARNED THE POWER OF REACT MEMO");
     } else {
       alert("Invalid username"); // Handle cases when the username is not correct
